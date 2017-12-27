@@ -13,7 +13,7 @@ MongoClient.connect("mongodb://uday_pydi:Itsmylife1@ds061158.mlab.com:61158/smar
    {
 	db = database;
 	console.log('Connected to MongoDB');
-	app.listen(3000, '192.168.1.6');
+	app.listen(4000);
    }
  });
 
